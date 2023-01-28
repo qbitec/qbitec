@@ -48,11 +48,9 @@ Luego de esta pantalla debemos escoger el componente al cual deseamos acceder (i
 
 _(imagen5. Selección del componente a Editar)_
 
-Paso siguiente, clic en el icono “editar”![](.gitbook/assets/5.png)
+Paso siguiente, clic en el icono “editar”![](.gitbook/assets/5.png) para poder acceder al mismo
 
-para poder acceder al mismo
-
-![](.gitbook/assets/6.png)
+<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 En esta pantalla se encuentran enlistados los Objetivos Operativos con sus respectivos indicadores, periodos de medición de dichos objetivos y responsables de su ejecución.
 
