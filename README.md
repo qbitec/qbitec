@@ -56,23 +56,13 @@ En esta pantalla se encuentran enlistados los Objetivos Operativos con sus respe
 
 ​
 
-![Imagen que contiene Gráfico de dispersión
-
-Descripción generada automáticamente](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image011.jpg)
+<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 (_imagen6. Acceso al componente seleccionado_)
 
 Nuevo Objetivo Operativo.
 
-Para crear nuevos Objetivos Operativos debemos dar clic en el icono “más”
-
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image012.png)
-
-que se encuentra junto al título (_imagen7_).
-
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image014.jpg)
-
-(_imagen7. Ícono “más” para ingreso de Nuevos Objetivos Operativos_)
+Para crear nuevos Objetivos Operativos debemos dar clic en el icono “más”![](.gitbook/assets/7.png)
 
 Al dar clic en el ícono “más” se desplegará la siguiente ventana modal (image8)
 
