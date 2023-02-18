@@ -48,7 +48,7 @@ Luego de esta pantalla debemos escoger el componente al cual deseamos acceder (i
 
 _(imagen5. Selección del componente a Editar)_
 
-Paso siguiente, clic en el icono “editar”![](.gitbook/assets/5.png) para poder acceder al mismo
+Paso siguiente, clic en el icono “editar”![](<.gitbook/assets/5 (1).png>) para poder acceder al mismo
 
 <figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,95 +66,59 @@ Para crear nuevos Objetivos Operativos debemos dar clic en el icono “más”![
 
 Al dar clic en el ícono “más” se desplegará la siguiente ventana modal (image8)
 
-![Interfaz de usuario gráfica
-
-Descripción generada automáticamente](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image016.jpg)
+<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 (_imagen8. Formulario de ingreso de Nuevo Objetivo Operativo_)
 
 Nuevo Indicador de Objetivo Operativo.
 
-Para crear nuevos Indicadores de Objetivos Operativos debemos dar clic en el icono “más”
+Para crear nuevos Indicadores de Objetivos Operativos debemos dar clic en el icono “más” que se encuentra junto al título (_imagen9_).
 
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image012.png)
-
-que se encuentra junto al título (_imagen9_).
-
-![Interfaz de usuario gráfica, Texto, Aplicación
-
-Descripción generada automáticamente](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image018.jpg)
-
-(_imagen9. Ícono “más” para ingreso de Nuevos Indicadores de Objetivos Operativos_)
-
-Al dar clic en el ícono “más” se desplegará la siguiente ventana modal (_image10_)
-
-![Interfaz de usuario gráfica, Aplicación, Tabla
-
-Descripción generada automáticamente](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image020.jpg)
+<figure><img src=".gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 (_imagen10. Formulario de ingreso de Nuevo Indicador de Objetivo Operativo_)
 
 Editar Planificación Registrada.
 
-Para crear editar Objetivos Operativos debemos escoger un registro o fila y dar clic en el icono “editar”
+Para crear editar Objetivos Operativos debemos escoger un registro o fila y dar clic en el icono “editar”![](.gitbook/assets/5.png)
 
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image021.png)
 
-que se encuentra al final de cada registro (_imagen11_).
-
-![Texto
-
-Descripción generada automáticamente](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image023.jpg)
-
-(_imagen11. Registro o fila de Objetivo Operativo_)
 
 Al dar clic en el ícono “editar” se desplegará un mensaje de confirmación (_imagen12_) que con el cuál usted aceptará modificar el registro seleccionado y aparecerá el mismo en modo edición al final de la tabla (_imagen13_)
 
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image025.jpg)
+<figure><img src=".gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
 (_imagen12. Mensaje de confirmación para modificar registro seleccionado_)
 
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image027.jpg)
 
-(_imagen13. Modo edición de registro seleccionado_)
 
-Opciones Generales del Plan Operativo Anual
-
-En la parte superior junto al nombre del componente se encuentran 3 íconos (_imagen14_) que realizan otras funciones:
-
-![Interfaz de usuario gráfica, Texto, Aplicación
-
-Descripción generada automáticamente](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image029.jpg)
+<figure><img src=".gitbook/assets/14.png" alt=""><figcaption><p>Edición de POA</p></figcaption></figure>
 
 ​
 
-(_imagen14. Íconos que se encuentran junto al componente_)
+**Opciones Generales del Plan Operativo Anual**
 
-Al dar clic en el ícono “grabar”
+En la parte superior junto al nombre del componente se encuentran 3 íconos (<img src=".gitbook/assets/generales.jpg" alt="" data-size="line">) que realizan otras funciones:(_imagen14. Íconos que se encuentran junto al componente_)
 
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image030.png)
+Al dar clic en el ícono “grabar”![](.gitbook/assets/16.png)
 
-se procederá a enviar datos del área seleccionada hacia el área de Planificación mediante la aceptación de un mensaje en forma de cuadro de diálogo (_imagen15_) y siguiente a esto nos aparecerá un mensaje de autorización (_imagen16_) para realizar la acción.
+se procederá a enviar datos del área seleccionada hacia el área de Planificación mediante la aceptación de un mensaje en forma de cuadro de diálogo y siguiente a esto nos aparecerá un mensaje de autorización (_imagen16_) para realizar la acción.
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image032.jpg)
+<figure><img src=".gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
 (_imagen15. Cuadro de diálogo para donde aceptamos el envío de información_)
 
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image034.jpg)
+<figure><img src=".gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
 
 (_imagen16. Cuadro de autorización para envío de información_)
 
-Al dar clic en el ícono “cambiar”
-
-![](file:///C:/Users/Leved/AppData/Local/Temp/msohtmlclip1/01/clip\_image035.png)
+Al dar clic en el ícono “cambiar”![](.gitbook/assets/19.png)
 
 nos permitirá cambiar o escoger otro componente para su edición.
 
-Al dar clic en el ícono “exit” nos permitirá salir del módulo hacia la pantalla principal del sistema.
+Al dar clic en el ícono “exit”  ![](<.gitbook/assets/15.png - Visor de fotos de Picasa.jpg>)nos permitirá salir del módulo hacia la pantalla principal del sistema.
 
-PLANES / PLAN ANUAL DE COMPRAS
+**PLANES / PLAN ANUAL DE COMPRAS**
 
 Para ingresar a esta opción nos dirigimos a la opción “PLANES”, sub opción “PLAN ANUAL DE COMPRAS”, y se mostrará la siguiente pantalla (_imagen20_):
 
