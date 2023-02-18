@@ -1,5 +1,5 @@
 ---
-description: Manual de Usuario Operador POA / PAC​ACCESO
+description: Manual de Usuario Operador Poa / Pac
 ---
 
 # Sistema ESIP POA/PAC
