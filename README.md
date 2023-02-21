@@ -122,11 +122,11 @@ Al dar clic en el ícono “exit”  ![](<.gitbook/assets/15.png - Visor de foto
 
 Para ingresar a esta opción nos dirigimos a la opción “PLANES”, sub opción “PLAN ANUAL DE COMPRAS”, y se mostrará la siguiente pantalla (_imagen20_):
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Luego de esta pantalla debemos escoger el componente al cual deseamos acceder (_imagen21_).
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Paso siguiente, clic en el icono “editar” ![](<.gitbook/assets/image (17).png>) para poder acceder al mismo (_imagen22_).
 
@@ -140,17 +140,17 @@ En esta pantalla se encuentran enlistados los Objetivos Operativos con sus respe
 
 Para crear un nuevo Item en la Tabla debemos dirigirnos al final de la misma e ingresar los valores que necesitamos en una fila en modo edición y luego dar clic en el icono “más” para agregar la fila. (_imagen23_).
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Nuevo Bien / Servicio /Obra.**
 
 Para crear nuevos Bienes debemos dar clic en el icono “más” que se encuentra junto al título (_imagen24_).
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al dar clic en el ícono “más” se desplegará la siguiente ventana modal (_imagen25_) en la cual se debe seleccionar el ítem presupuestario, tipo de bien, medida, ingresar nombre y su costo respectivo.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 (_imagen25. Formulario para el ingreso de nuevo Bien o Servicio_)
 
@@ -158,7 +158,7 @@ Ayuda Plan Anual de Compras.
 
 Para obtener ayuda respecto a Bienes y servicios registrados en el Sistema E-SIP debemos dar clic en el icono “ayuda” ![](<.gitbook/assets/image (6).png>) que se encuentra junto al título y al ícono “más” (_imagen26_).
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al dar clic en el ícono “ayuda” se mostrará la pantalla con todos los Bienes registrados en el Sistema E‑SIP (_imagen27_), con respectivos filtros de búsqueda, etc.
 
@@ -168,7 +168,7 @@ Opciones Generales del Componente Plan Anual de Compras
 
 En la parte superior junto al nombre del componente se encuentran 5 íconos (_imagen28_) que realizan otras funciones:
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al dar clic en el ícono “grabar” se procederá a enviar datos del área seleccionada hacia el área Financiera mediante la aceptación de un mensaje en forma de cuadro de diálogo (_imagen29_) y siguiente a esto nos aparecerá un mensaje de autorización (imagen30) para realizar la acción.
 
@@ -182,7 +182,7 @@ Al dar clic en el ícono “imprimir” ![](<.gitbook/assets/image (12).png>) no
 
 <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-Al dar clic en el ícono “siguiente” ![](<.gitbook/assets/image (14).png>) nos permitirá visualizar los saldos pre asignados en el presente componente (_imagen32_).
+Al dar clic en el ícono “siguiente” ![](<.gitbook/assets/image (14) (1).png>) nos permitirá visualizar los saldos pre asignados en el presente componente (_imagen32_).
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
