@@ -122,15 +122,15 @@ Al dar clic en el ícono “exit”  ![](<.gitbook/assets/15.png - Visor de foto
 
 Para ingresar a esta opción nos dirigimos a la opción “PLANES”, sub opción “PLAN ANUAL DE COMPRAS”, y se mostrará la siguiente pantalla (_imagen20_):
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Luego de esta pantalla debemos escoger el componente al cual deseamos acceder (_imagen21_).
 
-<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-Paso siguiente, clic en el icono “editar” ![](<.gitbook/assets/image (17).png>) para poder acceder al mismo (_imagen22_).
+Paso siguiente, clic en el icono “editar” ![](<.gitbook/assets/image (31).png>) para poder acceder al mismo (_imagen22_).
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 (_imagen22. Listado de Objetivos Operativos con Bienes Vinculados_)
 
@@ -140,51 +140,51 @@ En esta pantalla se encuentran enlistados los Objetivos Operativos con sus respe
 
 Para crear un nuevo Item en la Tabla debemos dirigirnos al final de la misma e ingresar los valores que necesitamos en una fila en modo edición y luego dar clic en el icono “más” para agregar la fila. (_imagen23_).
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Nuevo Bien / Servicio /Obra.**
 
 Para crear nuevos Bienes debemos dar clic en el icono “más” que se encuentra junto al título (_imagen24_).
 
-<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Al dar clic en el ícono “más” se desplegará la siguiente ventana modal (_imagen25_) en la cual se debe seleccionar el ítem presupuestario, tipo de bien, medida, ingresar nombre y su costo respectivo.
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 (_imagen25. Formulario para el ingreso de nuevo Bien o Servicio_)
 
 Ayuda Plan Anual de Compras.
 
-Para obtener ayuda respecto a Bienes y servicios registrados en el Sistema E-SIP debemos dar clic en el icono “ayuda” ![](<.gitbook/assets/image (6).png>) que se encuentra junto al título y al ícono “más” (_imagen26_).
+Para obtener ayuda respecto a Bienes y servicios registrados en el Sistema E-SIP debemos dar clic en el icono “ayuda” ![](<.gitbook/assets/image (35).png>) que se encuentra junto al título y al ícono “más” (_imagen26_).
 
-<figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Al dar clic en el ícono “ayuda” se mostrará la pantalla con todos los Bienes registrados en el Sistema E‑SIP (_imagen27_), con respectivos filtros de búsqueda, etc.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Opciones Generales del Componente Plan Anual de Compras
 
 En la parte superior junto al nombre del componente se encuentran 5 íconos (_imagen28_) que realizan otras funciones:
 
-<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 Al dar clic en el ícono “grabar” se procederá a enviar datos del área seleccionada hacia el área Financiera mediante la aceptación de un mensaje en forma de cuadro de diálogo (_imagen29_) y siguiente a esto nos aparecerá un mensaje de autorización (imagen30) para realizar la acción.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-Al dar clic en el ícono “cambiar” ![](<.gitbook/assets/image (5).png>) nos permitirá cambiar o escoger otro componente para su edición.
+Al dar clic en el ícono “cambiar” ![](<.gitbook/assets/image (12).png>) nos permitirá cambiar o escoger otro componente para su edición.
 
-Al dar clic en el ícono “exit” ![](<.gitbook/assets/image (4).png>) nos permitirá salir del módulo hacia la pantalla principal del sistema.
+Al dar clic en el ícono “exit” ![](<.gitbook/assets/image (6).png>) nos permitirá salir del módulo hacia la pantalla principal del sistema.
 
-Al dar clic en el ícono “imprimir” ![](<.gitbook/assets/image (12).png>) nos permitirá imprimir la información del presente módulo (_imagen31_).
+Al dar clic en el ícono “imprimir” ![](<.gitbook/assets/image (20).png>) nos permitirá imprimir la información del presente módulo (_imagen31_).
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Al dar clic en el ícono “siguiente” ![](<.gitbook/assets/image (14) (1).png>) nos permitirá visualizar los saldos pre asignados en el presente componente (_imagen32_).
+Al dar clic en el ícono “siguiente” ![](<.gitbook/assets/image (36).png>) nos permitirá visualizar los saldos pre asignados en el presente componente (_imagen32_).
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 **Reporte Plan Operativo Anual**
 
@@ -196,7 +196,7 @@ S.REPORTES -> PLAN OPERATIVO ANUAL PLANIFACION
 
 El mismo que se genera con todos los detalles _(imagen 33)_
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Como se muestra en el ejemplo se puede ver la Alineación al Objetivo del PND y a el objetivo Estratégico Institucional con su respectivo desglose de la planificación relacionada con el gasto económico propuesto.
 
@@ -210,7 +210,7 @@ S.REPORTES -> PLAN ANUAL DE COMPRAS POR AREAS INTERNAS.
 
 El mismo que se genera con todos los detalles _(imagen 34)_
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Se puede observar que se tiene el reporte acumulado por ítem presupuestario por la dirección /subprograma para el registro de datos por el área de Presupuestos.
 
@@ -222,4 +222,4 @@ S.REPORTES -> PLAN ANUAL DE COMPRAS POR AREAS INTERNAS.
 
 El mismo que se genera con todos los detalles _(imagen 35)_
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

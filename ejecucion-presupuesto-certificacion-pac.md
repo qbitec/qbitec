@@ -6,45 +6,45 @@ CREACION DE CERTIFICACIONES PAC
 
 2.- Acceder a la ruta de CERTIFICACION PAC
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 3.- Crear la cabecera de la certificación :
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 4.- Dar clic en nuevo y se debe registrar los campos solicitados , dar clic en grabar para terminar de crear la cabecera:&#x20;
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 5.- Una vez creada la cabezera se reflejara en la parte inferior con los datos creados
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 6.- Para crear el detalle , se debe seleccionar la cabecera creada dar clic en
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 7.- Se refleja los siguientes campos&#x20;
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 8.- Vamos a detallar los campos a seleccionar :
 
 8.1.- Detalle componente se refiere al componente / Direccion o área , allí se debe seleccionar de la que se va a generar la certificación pac:
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 8.2 En el lado derecho se carga en el Campo ITEM DEL PAC, todo lo que tiene en el sistema cargado (para este ejemplo del COMPRAS PUBLICAS) y seleccionamos que se va a certificar
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 8.3 Se refleja de esta manera los campos:
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 8.4 Para agregar se debe dar clic en el botón AGREGAR
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 8.5 Se refleja la información de esta manera en el detalle , se debe repetir estos paso de 8.1 a 8.4 para agregar mas detalles , una vez terminado de agregar dar clic en en el botón CERRAR DETALLES para cerrar esta opción.
 
